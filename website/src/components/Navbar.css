@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background: aqua;
+}
+
+.element{
+    list-style: none;
+    font-size: xx-large;
+}
+
+.link{
+    text-decoration: none;
+}
