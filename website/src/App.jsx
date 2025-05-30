@@ -10,6 +10,7 @@ import { useEffect } from "react";
 import Effect from "./hooks/Effect";
 import Ref from "./hooks/Ref";
 import Reducer from "./hooks/Reducer";
+import Context from "./hooks/Context";
 
 function App() {
  let name='vijay'
@@ -32,8 +33,9 @@ useEffect(()=>{
       <Route path="/state" element={<State/>}/>
       <Route path="/form" element={<Form/>}/>
       <Route path="/effect" element={<Effect/>}/>
-       <Route path="/ref" element={<Ref/>}/>
-        <Route path="/reducer" element={<Reducer/>}/>
+      <Route path="/ref" element={<Ref/>}/>
+      <Route path="/reducer" element={<Reducer/>}/>
+
 
     </Routes>
     {/* <Home></Home>

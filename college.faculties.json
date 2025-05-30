@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "6836d074440597f1bc5686ee"
+  },
+  "name": "mounika",
+  "dept": "csd",
+  "salary": "10000",
+  "dob": "1.1.2025"
+},
+{
+  "_id": {
+    "$oid": "6836d2599bb22e6f2b4c5bcb"
+  },
+  "name": "KTM",
+  "dept": "cse",
+  "salary": 5000,
+  "dob": "20.8.1995"
+},
+{
+  "_id": {
+    "$oid": "6836d2599bb22e6f2b4c5bcc"
+  },
+  "name": "priya",
+  "dept": "it",
+  "salary": 20000,
+  "dob": "3.5.2020"
+},
+{
+  "_id": {
+    "$oid": "6836d42e9bb22e6f2b4c5bcd"
+  },
+  "name": "KTM",
+  "dept": "cse",
+  "status": {
+    "isActive": true
+  },
+  "salary": 5000
+},
+{
+  "_id": {
+    "$oid": "6836dc6f9bb22e6f2b4c5bce"
+  },
+  "name": "KTM",
+  "dept": "cse",
+  "salary": 5000,
+  "dob": "5.5.2020"
+}]

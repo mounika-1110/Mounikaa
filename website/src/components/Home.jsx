@@ -9,7 +9,8 @@ const Home = ({name}) => {
 <Link to="/form">Controlled Form</Link><br></br>
 <Link to="/effect">Effect</Link><br></br>
 <Link to="/ref">Ref</Link><br></br>
-<Link to="/reducer">Reducer</Link>
+<Link to="/reducer">Reducer</Link><br></br>
+
 
     </div>
   )
