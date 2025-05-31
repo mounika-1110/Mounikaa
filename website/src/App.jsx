@@ -11,6 +11,7 @@ import Effect from "./hooks/Effect";
 import Ref from "./hooks/Ref";
 import Reducer from "./hooks/Reducer";
 import Context from "./hooks/Context";
+import Todos from "./pages/Todos";
 
 function App() {
  let name='vijay'
@@ -35,6 +36,7 @@ useEffect(()=>{
       <Route path="/effect" element={<Effect/>}/>
       <Route path="/ref" element={<Ref/>}/>
       <Route path="/reducer" element={<Reducer/>}/>
+      <Route path="/todos" element={<Todos/>}/>
 
 
     </Routes>

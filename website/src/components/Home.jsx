@@ -10,6 +10,7 @@ const Home = ({name}) => {
 <Link to="/effect">Effect</Link><br></br>
 <Link to="/ref">Ref</Link><br></br>
 <Link to="/reducer">Reducer</Link><br></br>
+<Link to="/todos">Todos</Link><br></br>
 
 
     </div>
